@@ -36,7 +36,7 @@
 ---
 
 ## 📝 대표 프로젝트
-- [📉 **대한민국 소멸 위험 분석**](https://github.com/username/regional-extinction-analysis)  
+- [📉 **대한민국 소멸 위험 분석**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
   → 시군구 인구 데이터 + 산업단지 데이터 기반, 소멸위험지수 산출 및 시각화  
 
 - [📰 **Info-Guard**](https://github.com/username/ai-news-classifier)  
