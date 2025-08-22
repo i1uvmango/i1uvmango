@@ -67,11 +67,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=i1uvmango&theme=onedark&column=6&margin-w=15&margin-h=15)
-
----
-
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=i1uvmango&theme=tokyonight&hide_border=true)
 ---
