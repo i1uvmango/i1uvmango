@@ -33,7 +33,7 @@
 - [📉 **대한민국 소멸 위험 예측**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
   → 빅데이터 + 머신러닝 기반 신소멸위험지수를 통한 소멸지역 정량적 예측
 
-- [📰 **Info-Guard**]([https://github.com/i1uvmango/info-guard.git])  
+- [📰 **Info-Guard**](https://github.com/i1uvmango/info-guard.git)  
   → AI 모델 활용한 YouTube 영상 신뢰도 평가
 
 
