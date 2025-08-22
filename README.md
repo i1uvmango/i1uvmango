@@ -39,21 +39,17 @@
 - [📉 **대한민국 소멸 위험 분석**](https://github.com/username/regional-extinction-analysis)  
   → 시군구 인구 데이터 + 산업단지 데이터 기반, 소멸위험지수 산출 및 시각화  
 
-- [📰 **AI 뉴스 분류기**](https://github.com/username/ai-news-classifier)  
+- [📰 **Info-Guard**](https://github.com/username/ai-news-classifier)  
   → KoBERT로 정치 뉴스 가짜/진짜 판별 모델  
 
-- [💬 **청소년 멘탈 케어 챗봇**](https://github.com/username/teen-counseling-bot)  
-  → AI 상담 챗봇, 감정 분석 및 대화 데이터 기반  
 
-- [📡 **빅데이터 파이프라인 구축**](https://github.com/username/bigdata-pipeline)  
-  → Kafka + Spark Streaming + Hadoop으로 실시간 데이터 분석  
 
 ---
 
 ## ✨ About Me
-- 🌱 현재 공부 중: **머신러닝, 빅데이터 분산처리, 클라우드 AI**  
+- 🌱 현재 공부 중: **머신러닝, DeepLearning, 빅데이터프로그래밍**  
 - 🎯 관심 분야: **데이터 사이언스, AI 서비스, 사회문제 해결형 데이터 분석**  
-- 🏫 대학 1학년, AI/데이터 분석 전공 지망  
+- 🏫 광운대학교 정보융합학부 2학년, AI/데이터사이언스 전공  
 - 📫 연락: **xcruisermk@gmail.com**  
 - 📝 블로그: [Velog/Notion/개인 블로그 링크]  
 
