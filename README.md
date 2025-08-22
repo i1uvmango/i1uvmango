@@ -30,11 +30,11 @@
 
 
 ## 📝 대표 프로젝트
-- [📉 **대한민국 소멸 위험 분석**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
-  → 시군구 인구 데이터 + 산업단지 데이터 기반, 소멸위험지수 산출 및 시각화  
+- [📉 **대한민국 소멸 위험 예측**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
+  → 빅데이터 + 머신러닝 기반 신소멸위험지수를 통한 소멸지역 정량적 예측
 
-- [📰 **Info-Guard**](https://github.com/username/ai-news-classifier)  
-  → KoBERT로 정치 뉴스 가짜/진짜 판별 모델  
+- [📰 **Info-Guard**]([https://github.com/i1uvmango/info-guard.git])  
+  → AI 모델 활용한 YouTube 영상 신뢰도 평가
 
 
 
