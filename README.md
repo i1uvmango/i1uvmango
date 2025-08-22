@@ -27,13 +27,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
 
-## 📊 깃허브 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight)
-
----
 
 ## 📝 대표 프로젝트
 - [📉 **대한민국 소멸 위험 분석**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
