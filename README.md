@@ -30,7 +30,7 @@
 
 
 ## 📝 대표 프로젝트
-- [📉 **대한민국 소멸 위험 예측**](https://www.notion.so/204bb517323b803bbc6ee411cda27105?source=copy_link)  
+- [📉 **대한민국 소멸 위험 예측**](https://github.com/i1uvmango/kr_extinction_regression.git)  
   → 빅데이터 + 머신러닝 기반 신소멸위험지수를 통한 소멸지역 정량적 예측
 
 - [📰 **Info-Guard**](https://github.com/i1uvmango/HUSS-info-guard.git)  
