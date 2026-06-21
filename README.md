@@ -39,17 +39,6 @@
 - 📫 연락: **xcruisermk@gmail.com**  
   
 
----
-## GitHub Analytics
-
-### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i1uvmango&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)
-
----
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=i1uvmango&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1uvmango&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
