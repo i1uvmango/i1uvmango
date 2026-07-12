@@ -6,7 +6,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Physical AI
 - Computer Vision
@@ -16,7 +16,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 
 ---
 
-## 🚀 Current
+## Current
 
 - Deep Imaging & Graphics Lab: https://korfriend.github.io/Projects/real2sim-sim2real/
 - Generative Sim2Real Research
@@ -25,7 +25,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **PhysicalAI-Sim2Real**  
   Generative Sim2Real pipeline for robotic learning.
@@ -54,7 +54,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email : xcruisermk@gmail.com
 - GitHub : https://github.com/i1uvmango
