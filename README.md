@@ -12,7 +12,7 @@ Computer Vision · Physical AI · Sim2Real · Robotics
 - Computer Vision
 - Generative AI
 - Reinforcement Learning
-- Sim2Real
+- Real2Sim, Sim2Real 
 
 ---
 
