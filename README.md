@@ -1,10 +1,8 @@
 # 안녕하세요, 정만교입니다.
-
 AI Research Student @ Kwangwoon University
+Sim2Real · Robotics · Computer Vision · LLM · DataScience
 
-Computer Vision · Physical AI · Sim2Real · Robotics
-
-![index](https://github.com/i1uvmango/https-i1uvmango.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-i1uvmango.github.io-D98E04?style=flat-square&logo=githubpages&logoColor=white)](https://i1uvmango.github.io)
 
 ---
 
