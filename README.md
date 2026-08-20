@@ -2,7 +2,7 @@
 AI Research Student @ Kwangwoon University
 Sim2Real · Robotics · Computer Vision · LLM · DataScience
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-i1uvmango.github.io-D98E04?style=flat-square&logo=githubpages&logoColor=white)](1uvmango.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-i1uvmango.github.io-D98E04?style=flat-square&logo=githubpages&logoColor=white)](i1uvmango.github.io)
 
 ---
 
