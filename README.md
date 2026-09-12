@@ -4,8 +4,8 @@
 
 Sim2Real · Robotics · Computer Vision · LLM · Data Science
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-i1uvmango.github.io-D98E04?style=flat-square&logo=githubpages&logoColor=white)](https://i1uvmango.github.io)
-[Path2ST demo](https://i1uvmango.github.io/path2st_demo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://i1uvmango.github.io)
+[![Path2ST Demo](https://img.shields.io/badge/Path2ST-Live%20Demo-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://i1uvmango.github.io/path2st_demo/)
 
 ---
 
